@@ -20,7 +20,7 @@
 // ------------------------------------------------------------------------------------------
 // | ESC |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  0  |  -  |  =  |   BKSP   |
 // | TAB  |  Q  |  W  |  E  |  R  |  T  |  Y  |  U  |  I  |  O  |  P  |  [  |  ]  |   "|"   |
-// | CAPS  |  A  |  S  |  D  |  F  |  G  |  H  |  J  |  K  |  L  |  ;  |  '  |     ENTER    |
+// |  CTL  |  A  |  S  |  D  |  F  |  G  |  H  |  J  |  K  |  L  |  ;  |  '  |     ENTER    |
 // |  SHIFT  |  Z  |  X  |  C  |  V  |  B  |  N  |  M  |  ,  |  .  |  /  |      SHIFT       |
 // |  CTL  |  WIN  |  ALT  |            SPACE              |  ALT  |  WIN  |  MO(1) |  CTL  |
 // ------------------------------------------------------------------------------------------
@@ -36,8 +36,8 @@
 		rgb_layer {
 // ------------------------------------------------------------------------------------------------
 // | BT CLR | F1  | F2  | F3  | F4  | F5  | F6  | F7  | F8  | F9  | F10  | F11 | F12 | EFFECT REV |
-// |  BT 1   |   |  UP |   | HUEUP | SATUP | BRIUP | SPDUP |   |     |    |     |     |           |
-// |   BT 2   | LT |  DN  | RT | HUEDN | SATDN | BRIDN | SPDDN |   |     |   |     |  EFFECT FORW |
+// |  BT 1   |   |  UP |   | HUEUP | SATUP | BRIUP | SPDUP |   |     |    | PG_DN | PG_UP |       |
+// |   BT 2   | LT |  DN  | RT | HUEDN | SATDN | BRIDN | SPDDN |  |   | DOWN | HOME | EFFECT FORW |
 // |    BT 3     |     |      |      |     |     |     |     |     |     |     |                  |
 // |   BT 4  |      |      |             TOG RGB                | PRT SCR |       |       |  DEL  |
 // ------------------------------------------------------------------------------------------------
